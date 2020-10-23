@@ -1,0 +1,28 @@
+.main_team {
+  background: white;
+  text-align: center;
+  padding: 102px 0 112px 0;
+  color: #86878b;
+}
+.main_team h1 {
+  font-size: 36px;
+  padding-bottom: 22px;
+}
+.line {
+  width: 102px;
+  height: 2px;
+  background: #ff8b38;
+  position: relative;
+  left: 650px;
+  margin-bottom: 66px;
+}
+.picture {
+  border: 2px solid #ff8b38;
+  width: 70px;
+  height: 70px;
+  border-radius: 100px;
+  margin: 15px auto;
+}
+.team_cards {
+  display: flex;
+}
